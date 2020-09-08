@@ -1,6 +1,4 @@
-![Sergey Banner](https://raw.github.com/h0tk3y/h0tk3y/master/github.png)
-
-## <img width="45" alt="about" src="https://raw.github.com/h0tk3y/h0tk3y/master/about.png"> More about me
+## <img width="45" alt="about" src="https://raw.github.com/h0tk3y/h0tk3y/master/about.png"> About me
 ```kotlin
 val h0tk3y = developer {
     about {
