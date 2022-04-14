@@ -3,7 +3,6 @@
 val h0tk3y = developer {
     about {
         name = "Sergey"
-        company = JetBrains
         role = Developer
     }
     tech("Kotlin", "Gradle", "Java", "JVM", "compilers")
